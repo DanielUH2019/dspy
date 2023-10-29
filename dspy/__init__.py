@@ -23,4 +23,4 @@ HFClientTGI = dsp.HFClientTGI
 
 Anyscale = dsp.Anyscale
 HFModel = dsp.HFModel
-AutoAwq = dsp.autoawq
+AutoAwq = dsp.AutoAwq
