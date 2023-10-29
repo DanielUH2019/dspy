@@ -9,3 +9,4 @@ from .pyserini import *
 
 from .hf_client import HFClientTGI
 from .hf_client import Anyscale
+from .autoawq import AutoAwq
